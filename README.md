@@ -195,53 +195,6 @@ Desktop application developed in Java.
 
 ---
 
-# 🎯 Current Focus
-
-```text
-✓ PostgreSQL
-
-✓ Docker
-
-✓ Backend Engineering
-
-✓ System Design Fundamentals
-
-✓ Building Startup Connect
-
-✓ Data Structures & Algorithms
-```
-
----
-
-# 📚 Currently Learning
-
-```mermaid
-flowchart LR
-
-A(JavaScript)
--->B(Node.js)
--->C(Express)
-
-C
--->D(PostgreSQL)
-
-D
--->E(System Design)
-
-E
--->F(Docker)
-
-F
--->G(AWS)
-
-G
--->H(DevOps)
-```
-
----
-
-# 📈 Activity Graph
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-zaki-237&theme=github-dark&hide_border=true&bg_color=0F0C29&color=B388FF&line=8A7CE8&point=FFFFFF"/>
@@ -249,8 +202,6 @@ G
 </div>
 
 ---
-
-# 🐍 Contribution Snake
 
 <p align="center">
   <picture>
