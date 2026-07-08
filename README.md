@@ -1,199 +1,295 @@
 <div align="center">
 
-# Muhammad Zakria
+# 👋 Hi, I'm Muhammad Zakria
 
-### MERN Stack Developer
+### Full-Stack Developer • Backend Enthusiast • Computer Science Undergraduate
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8A7CE8&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+products;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Turning+ideas+into+production-ready+SaaS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=8A7CE8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Currently+Learning+PostgreSQL+%26+System+Design;Building+Real+Projects+One+Step+at+a+Time" />
+
+<br/>
+
+<a href="https://zakria-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-0F0C29?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br/>
+<a href="https://www.linkedin.com/in/muhammad-zakria-7a8402330/">
+<img src="https://img.shields.io/badge/LinkedIn-302B63?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br/><br/>
+<a href="mailto:muhammadzakriaawan237@gmail.com">
+<img src="https://img.shields.io/badge/Email-1E1B3A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<a href="https://zakria-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammad-zakria-7a8402330/"><img src="https://img.shields.io/badge/LinkedIn-1E1B3A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:muhammadzakriaawan237@gmail.com"><img src="https://img.shields.io/badge/Email-14122B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/m-zaki-237"><img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
+<a href="https://github.com/m-zaki-237">
+<img src="https://img.shields.io/badge/GitHub-14122B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
+---
+
+# 💫 About Me
+
+I'm a **Computer Science undergraduate** passionate about building scalable full-stack web applications.
+
+I enjoy designing complete applications—from frontend interfaces to backend APIs and database architecture. My current focus is strengthening my backend engineering skills while exploring scalable system design.
+
+- 🎓 **BS Computer Science** — COMSATS University Islamabad
+- 💼 Former **Software Development Intern** @ DevelopersHub Corporation
+- 🥉 **3rd Place** — Saylani Mass IT Training (MERN Stack)
+- 🌱 Learning **PostgreSQL, Docker, Redis & System Design**
+- 🚀 Goal: Build impactful SaaS products
 
 ---
 
-## 🧠 About Me
+# ⚡ Tech Stack
 
-I'm a Computer Science undergraduate and **MERN Stack Developer** who builds full-stack, production-ready web applications end-to-end — from schema design and REST APIs to deployment. My engineering focus centers on **full-stack development**, **system design fundamentals** (caching, media pipelines, auth), and a **product engineering mindset**: I ship real products, not tutorials, iterating through internships and hackathons toward a scalable SaaS.
+## 💻 Languages
 
-```yaml
-🎓 Education:      BS Computer Science, COMSATS University Islamabad
-💼 Experience:     Software Development Intern @ DevelopersHub Corporation
-🏆 Bootcamp:       3rd place — Saylani Mass IT Training
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
+</p>
+
+## 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,redux,vite,tailwind" />
+</p>
+
+## ⚙ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## 🗄 Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
+</p>
+
+## ☁ Cloud & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,vscode,linux" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+> Replace `YOUR-VERCEL-URL` with your self-hosted GitHub Readme Stats deployment.
+
+<div align="center">
+
+<img height="170" src="https://YOUR-VERCEL-URL.vercel.app/api?username=m-zaki-237&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=m-zaki-237&theme=midnight-purple&hide_border=true"/>
+
+<br/>
+
+<img height="170" src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=m-zaki-237&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 💡 Startup Connect
+
+A platform connecting entrepreneurs and investors through a modern full-stack application.
+
+**Highlights**
+
+- Multi-role authentication
+- Dashboard for investors & entrepreneurs
+- REST API architecture
+- MongoDB database
+- React + TypeScript frontend
+
+**Tech**
+
+`React` `TypeScript` `Node.js` `Express` `MongoDB`
+
+---
+
+## 🛒 Full Stack E-Commerce
+
+Built during my internship with complete admin functionality.
+
+### Features
+
+- Product management
+- Orders
+- Authentication
+- Admin dashboard
+- Image uploads
+- Redis caching
+
+**Stack**
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+`Redis`
+`ImageKit`
+`TailwindCSS`
+
+🔗 Live
+
+https://ecommerce-fullstack-design-internsh.vercel.app/
+
+---
+
+## 🖼 Media Gallery
+
+Pinterest-style image search application using multiple APIs.
+
+### Features
+
+- Infinite Scroll
+- Redux Toolkit
+- Responsive UI
+- API Integration
+
+---
+
+## 📦 SwiftShip Courier System
+
+Desktop application developed in Java.
+
+### Features
+
+- Customer Management
+- Agent Dashboard
+- Admin Panel
+- File Handling
+- Object-Oriented Design
+
+---
+
+# 💼 Experience
+
+## Software Development Intern
+
+**DevelopersHub Corporation**
+
+- Developed a full-stack MERN application.
+- Integrated backend APIs with React frontend.
+- Implemented Redis caching.
+- Integrated ImageKit media storage.
+- Deployed using Vercel, Render and MongoDB Atlas.
+- Fixed production bugs during testing.
+
+---
+
+# 🏆 Achievements
+
+🥉 3rd Place — Saylani Mass IT Training
+
+🏅 Built multiple end-to-end MERN applications
+
+🚀 Completed a software development internship
+
+---
+
+# 🎯 Current Focus
+
+```text
+✓ PostgreSQL
+
+✓ Docker
+
+✓ Backend Engineering
+
+✓ System Design Fundamentals
+
+✓ Building Startup Connect
+
+✓ Data Structures & Algorithms
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 📚 Currently Learning
 
-<div align="center">
+```mermaid
+flowchart LR
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,java,html,css&theme=dark" />
+A(JavaScript)
+-->B(Node.js)
+-->C(Express)
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite&theme=dark" />
+C
+-->D(PostgreSQL)
 
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark" />
+D
+-->E(System Design)
 
-**Cloud, DevOps & Tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,vscode&theme=dark" />
+E
+-->F(Docker)
 
-</div>
+F
+-->G(AWS)
 
----
-
-## 🚀 Featured Projects
-
-<details>
-  
-A full-stack platform connecting entrepreneurs and investors, built with a real, API-driven backend (no mock data).
-
-| | |
-|---|---|
-| **Stack** | React, TypeScript, Node.js, Express, MongoDB |
-| **Scale** | Multi-role dashboards (entrepreneur/investor), collaboration workflows |
-| **Performance** | Fully refactored from static/mock data to live REST API calls |
-| **Security** | Role-based access, schema-validated endpoints |
-| **Impact** | Core startup product — actively iterated toward production readiness |
-| **Repository** | Private / In Development |
-
-Designed as the founding product in a long-term SaaS build, with dashboards for meetings, profile analytics, and cross-role collaboration requests currently being extended.
-
-</details>
-
-<details>
-<summary><b>🛒 Full-Stack E-Commerce Platform</b></summary>
-<br/>
-
-Built and deployed during a software development internship, including a complete admin panel.
-
-| | |
-|---|---|
-| **Stack** | React, Vite, Tailwind CSS, Zustand, Node.js, Express, MongoDB, Redis, ImageKit, Multer |
-| **Scale** | Product, order & inventory management with admin panel |
-| **Performance** | Redis-backed caching layer, ImageKit-optimized media delivery |
-| **Security** | Auth-protected admin routes, validated CRUD operations |
-| **Impact** | Deployed live across Vercel, Render, and MongoDB Atlas |
-| **Repository** | [Live Demo](https://ecommerce-fullstack-design-internsh.vercel.app/) |
-
-</details>
-
-<details>
-<summary><b>🖼️ Media Gallery App — Pinterest-Style Masonry Search</b></summary>
-<br/>
-
-| | |
-|---|---|
-| **Stack** | React, Redux Toolkit, Unsplash API, Pexels API |
-| **Scale** | Infinite scroll, multi-source search & filtering |
-| **Performance** | Centralized Redux state for async search/filter pipelines |
-| **Security** | N/A (public API integration) |
-| **Impact** | Clean, reusable Redux Toolkit architecture for media-heavy UIs |
-| **Repository** | [github.com/m-zaki-237/redux-toolkit](https://github.com/m-zaki-237/redux-toolkit.git) |
-
-</details>
-
-<details>
-<summary><b>📦 Courier Management System — SwiftShip</b></summary>
-<br/>
-
-| | |
-|---|---|
-| **Stack** | Java, Java Swing |
-| **Scale** | 21 classes across models, services, and GUI packages |
-| **Performance** | File-handling based persistence layer |
-| **Security** | Role-based login (admin, customer, agent) |
-| **Impact** | Applied core OOP principles — inheritance, encapsulation, polymorphism |
-| **Repository** | [github.com/m-zaki-237/CourierMangementSystem](https://github.com/m-zaki-237/CourierMangementSystem.git) |
-
-</details>
-
----
-
-## 💼 Experience
-
-**Software Development Intern** · DevelopersHub Corporation
-`2026`
-
-Built and deployed a full-stack MERN e-commerce application with a complete admin panel for product, order, and inventory management.
-
-- Planned and executed multi-service deployment across Vercel, Render, and MongoDB Atlas
-- Resolved functional and UI bugs surfaced during QA testing
-- Integrated Redis caching and ImageKit media handling into the product pipeline
-
-`React` `Node.js` `Express` `MongoDB` `Redis` `Docker` `Zustand`
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🥉 3rd Place — Batch Ranking | Saylani Mass IT Training, MERN Stack Development Program |
-| 🚀 Hackathon Delivery | Shipped a working full-stack MERN application at a competitive hackathon |
-
-</div>
-
----
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-zaki-237&bg_color=0F0C29&color=8A7CE8&line=6D5FC7&point=E8E3FF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-Learning:   Advanced system design, scalable backend architecture
-Building:   A full-stack SaaS platform connecting entrepreneurs and investors
-Exploring:  Product engineering workflows and system design patterns
+G
+-->H(DevOps)
 ```
 
 ---
 
-## 📫 Connect With Me
+# 📈 Activity Graph
 
 <div align="center">
 
-<a href="mailto:muhammadzakriaawan237@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E1B3A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammad-zakria-7a8402330/"><img src="https://img.shields.io/badge/LinkedIn-302B63?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/m-zaki-237"><img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://zakria-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-14122B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-zaki-237&theme=github-dark&hide_border=true&bg_color=0F0C29&color=B388FF&line=8A7CE8&point=FFFFFF"/>
 
 </div>
 
-<br/>
+---
+
+# 🐍 Contribution Snake
+
+> Enable using GitHub Actions.
+
+```md
+https://raw.githubusercontent.com/m-zaki-237/m-zaki-237/output/github-contribution-grid-snake-dark.svg
+```
+
+---
+
+# 🌎 Connect With Me
 
 <div align="center">
 
-_"Ship real products, not tutorials."_
+<a href="mailto:muhammadzakriaawan237@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-1E1B3A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-zakria-7a8402330/">
+<img src="https://img.shields.io/badge/LinkedIn-302B63?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://zakria-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-0F0C29?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/m-zaki-237">
+<img src="https://img.shields.io/badge/GitHub-14122B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Favorite Quote
+
+> **"Ship real projects. Learn continuously. Improve consistently."**
+
+⭐ Thanks for visiting my profile!
 
 </div>
