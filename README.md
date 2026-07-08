@@ -394,7 +394,7 @@ Consistently expanding expertise in backend engineering, databases, and scalable
 
 <img width="49%" src="https://github-readme-stats-three-xi-28.vercel.app/api/top-langs/?username=m-zaki-237&layout=compact&hide_border=true&bg_color=0D1117&title_color=FACC15&text_color=FFFFFF"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=m-zaki-237&theme=github-dark&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=m-zaki-237&theme=github-dark&hide_border=true&currStreakLabel=FACC15&currStreakNum=FACC15&sideLabels=FACC15&sideNums=FACC15&dates=FACC15"/>
 
 </div>
 
