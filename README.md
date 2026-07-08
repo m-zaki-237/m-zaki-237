@@ -1,251 +1,119 @@
-<div align="center">
 
 # 👋 Hi, I'm Muhammad Zakria
 
+<div align="center">
+
 ### Full-Stack Developer • Backend Enthusiast • Computer Science Undergraduate
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=8A7CE8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Currently+Learning+PostgreSQL+%26+System+Design;Building+Real+Projects+One+Step+at+a+Time" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:F7C948&text=Muhammad%20Zakria&fontColor=ffffff&fontSize=48&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=F7C948&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Engineering+Enthusiast;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Learning+PostgreSQL+%26+System+Design;Building+Real+Products"/>
+
+<p>
+<a href="https://zakria-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=F7C948"/></a>
+<a href="https://www.linkedin.com/in/muhammad-zakria-7a8402330/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F7C948"/></a>
+<a href="mailto:muhammadzakriaawan237@gmail.com"><img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=F7C948"/></a>
+</p>
+
+</div>
+
+---
+
+## 💫 About Me
+
+- 🎓 BS Computer Science — COMSATS University Islamabad
+- 💼 Former Software Development Intern @ DevelopersHub Corporation
+- 🥉 3rd Place — Saylani Mass IT Training (MERN)
+- 🌱 Currently learning PostgreSQL, Docker & System Design
+- 🚀 Building Startup Connect
+
+> **Code with purpose. Build with discipline.**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,java,react,redux,tailwind,vite,nodejs,express,mongodb,postgresql,redis,docker,git,github,linux,vercel,vscode&theme=dark"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-three-xi-28.vercel.app/api?username=m-zaki-237&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F7C948&icon_color=F7C948&text_color=FFFFFF"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=m-zaki-237&theme=github-dark-blue&hide_border=true"/>
 
 <br/>
 
-<a href="https://zakria-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0F0C29?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/muhammad-zakria-7a8402330/">
-<img src="https://img.shields.io/badge/LinkedIn-302B63?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:muhammadzakriaawan237@gmail.com">
-<img src="https://img.shields.io/badge/Email-1E1B3A?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/m-zaki-237">
-<img src="https://img.shields.io/badge/GitHub-14122B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💫 About Me
-
-I'm a **Computer Science undergraduate** passionate about building scalable full-stack web applications.
-
-I enjoy designing complete applications—from frontend interfaces to backend APIs and database architecture. My current focus is strengthening my backend engineering skills while exploring scalable system design.
-
-- 🎓 **BS Computer Science** — COMSATS University Islamabad
-- 💼 Former **Software Development Intern** @ DevelopersHub Corporation
-- 🥉 **3rd Place** — Saylani Mass IT Training (MERN Stack)
-- 🌱 Learning **PostgreSQL, Docker, Redis & System Design**
-- 🚀 Goal: Build impactful SaaS products
-
----
-
-# ⚡ Tech Stack
-
-## 💻 Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
-</p>
-
-## 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,redux,vite,tailwind" />
-</p>
-
-## ⚙ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-## 🗄 Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
-</p>
-
-## ☁ Cloud & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,vscode,linux" />
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats-three-xi-28.vercel.app/api?username=m-zaki-237&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0F0C29" width="49%"/>
-
-<img src="https://streak-stats.demolab.com/?user=m-zaki-237&theme=midnight-purple&hide_border=true&background=0F0C29" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats-three-xi-28.vercel.app/api/top-langs/?username=m-zaki-237&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0F0C29" width="45%"/>
+<img height="170" src="https://github-readme-stats-three-xi-28.vercel.app/api/top-langs/?username=m-zaki-237&layout=compact&hide_border=true&bg_color=0D1117&title_color=F7C948&text_color=FFFFFF"/>
 
 </div>
 
 ---
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=m-zaki-237&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=m-zaki-237&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
-# 🚀 Featured Projects
 
-## 💡 Startup Connect
+## 🚀 Featured Projects
 
-A platform connecting entrepreneurs and investors through a modern full-stack application.
-
-**Highlights**
-
-- Multi-role authentication
-- Dashboard for investors & entrepreneurs
-- REST API architecture
-- MongoDB database
-- React + TypeScript frontend
-
-**Tech**
-
-`React` `TypeScript` `Node.js` `Express` `MongoDB`
+| Project | Tech | Status |
+|---------|------|--------|
+| 🚀 Startup Connect | React, TypeScript, Express, MongoDB | 🚧 Active |
+| 🛒 Full-Stack E-Commerce | MERN, Redis, ImageKit | ✅ Complete |
+| 🖼 Media Gallery | React, Redux Toolkit | ✅ Complete |
+| 📦 SwiftShip | Java, Swing | ✅ Complete |
 
 ---
 
-## 🛒 Full Stack E-Commerce
+## 💼 Experience
 
-Built during my internship with complete admin functionality.
+### Software Development Intern — DevelopersHub Corporation
 
-### Features
-
-- Product management
-- Orders
-- Authentication
-- Admin dashboard
-- Image uploads
-- Redis caching
-
-**Stack**
-
-`React`
-`Node.js`
-`Express`
-`MongoDB`
-`Redis`
-`ImageKit`
-`TailwindCSS`
-
-🔗 Live
-
-https://ecommerce-fullstack-design-internsh.vercel.app/
+- Built and deployed a MERN e-commerce application.
+- Integrated Redis caching and ImageKit.
+- Deployed to Vercel, Render and MongoDB Atlas.
+- Fixed production issues and optimized APIs.
 
 ---
 
-## 🖼 Media Gallery
-
-Pinterest-style image search application using multiple APIs.
-
-### Features
-
-- Infinite Scroll
-- Redux Toolkit
-- Responsive UI
-- API Integration
-
----
-
-## 📦 SwiftShip Courier System
-
-Desktop application developed in Java.
-
-### Features
-
-- Customer Management
-- Agent Dashboard
-- Admin Panel
-- File Handling
-- Object-Oriented Design
-
----
-
-# 💼 Experience
-
-## Software Development Intern
-
-**DevelopersHub Corporation**
-
-- Developed a full-stack MERN application.
-- Integrated backend APIs with React frontend.
-- Implemented Redis caching.
-- Integrated ImageKit media storage.
-- Deployed using Vercel, Render and MongoDB Atlas.
-- Fixed production bugs during testing.
-
----
-
-# 🏆 Achievements
-
-🥉 3rd Place — Saylani Mass IT Training
-
-🏅 Built multiple end-to-end MERN applications
-
-🚀 Completed a software development internship
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-zaki-237&theme=github-dark&hide_border=true&bg_color=0F0C29&color=B388FF&line=8A7CE8&point=FFFFFF"/>
-
-</div>
-
----
+## 📈 Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-zaki-237/m-zaki-237/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-zaki-237/m-zaki-237/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/m-zaki-237/m-zaki-237/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-zaki-237&bg_color=0D1117&color=F7C948&line=FFD700&point=FFFFFF&hide_border=true"/>
 </p>
 
 ---
 
-# 🌎 Connect With Me
+## 🐍 Contributions
 
-<div align="center">
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-zaki-237/m-zaki-237/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/m-zaki-237/m-zaki-237/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+</p>
 
-<a href="mailto:muhammadzakriaawan237@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-1E1B3A?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/muhammad-zakria-7a8402330/">
-<img src="https://img.shields.io/badge/LinkedIn-302B63?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## 📫 Connect
 
-<a href="https://zakria-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0F0C29?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/m-zaki-237">
-<img src="https://img.shields.io/badge/GitHub-14122B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+<a href="mailto:muhammadzakriaawan237@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=F7C948"/></a>
+<a href="https://www.linkedin.com/in/muhammad-zakria-7a8402330/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F7C948"/></a>
+<a href="https://zakria-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=F7C948"/></a>
+</p>
 
 ---
 
 <div align="center">
 
-### 💭 Favorite Quote
-
-> **"Ship real projects. Learn continuously. Improve consistently."**
-
-⭐ Thanks for visiting my profile!
+### ⭐ "Build today what others only plan tomorrow."
 
 </div>
