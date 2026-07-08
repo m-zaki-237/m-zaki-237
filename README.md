@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:1A1A3E,100:302B63&height=220&section=header&text=Muhammad%20Zakria&fontSize=50&fontColor=E8E3FF&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Product%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+# Muhammad Zakria
+
+### MERN Stack Developer
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8A7CE8&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+products;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Turning+ideas+into+production-ready+SaaS" alt="Typing SVG" />
@@ -28,6 +30,8 @@
 
 <br/>
 
+---
+
 ## 🧠 About Me
 
 I'm a Computer Science undergraduate and **MERN Stack Developer** who builds full-stack, production-ready web applications end-to-end — from schema design and REST APIs to deployment. My engineering focus centers on **full-stack development**, **system design fundamentals** (caching, media pipelines, auth), and a **product engineering mindset**: I ship real products, not tutorials, iterating through internships and hackathons toward a scalable SaaS.
@@ -36,10 +40,9 @@ I'm a Computer Science undergraduate and **MERN Stack Developer** who builds ful
 🎓 Education:      BS Computer Science, COMSATS University Islamabad
 💼 Experience:     Software Development Intern @ DevelopersHub Corporation
 🏆 Bootcamp:       3rd place — Saylani Mass IT Training
-🚀 Currently:      Building a full-stack startup networking platform
 ```
 
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
@@ -63,14 +66,12 @@ I'm a Computer Science undergraduate and **MERN Stack Developer** who builds ful
 
 </div>
 
-<br/>
+---
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🌐 Startup Networking Platform — Entrepreneurs × Investors</b></summary>
-<br/>
-
+  
 A full-stack platform connecting entrepreneurs and investors, built with a real, API-driven backend (no mock data).
 
 | | |
@@ -133,7 +134,7 @@ Built and deployed during a software development internship, including a complet
 
 </details>
 
-<br/>
+---
 
 ## 💼 Experience
 
@@ -148,7 +149,7 @@ Built and deployed a full-stack MERN e-commerce application with a complete admi
 
 `React` `Node.js` `Express` `MongoDB` `Redis` `Docker` `Zustand`
 
-<br/>
+---
 
 ## 🏆 Achievements
 
@@ -156,12 +157,12 @@ Built and deployed a full-stack MERN e-commerce application with a complete admi
 
 | Recognition | Details |
 |---|---|
-| 🥉 3rd Place — Batch Ranking | Saylani Mass IT Training, MERN Stack Development Program (10-month bootcamp) |
+| 🥉 3rd Place — Batch Ranking | Saylani Mass IT Training, MERN Stack Development Program |
 | 🚀 Hackathon Delivery | Shipped a working full-stack MERN application at a competitive hackathon |
 
 </div>
 
-<br/>
+---
 
 ## 📊 GitHub Analytics
 
@@ -174,17 +175,7 @@ Built and deployed a full-stack MERN e-commerce application with a complete admi
 
 </div>
 
-<br/>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=m-zaki-237&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
-<br/>
+---
 
 ## 📈 Contribution Activity
 
@@ -194,17 +185,7 @@ Built and deployed a full-stack MERN e-commerce application with a complete admi
 
 </div>
 
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/m-zaki-237/m-zaki-237/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<br/>
+---
 
 ## 🎯 Current Focus
 
@@ -214,7 +195,7 @@ Building:   A full-stack SaaS platform connecting entrepreneurs and investors
 Exploring:  Product engineering workflows and system design patterns
 ```
 
-<br/>
+---
 
 ## 📫 Connect With Me
 
@@ -232,7 +213,5 @@ Exploring:  Product engineering workflows and system design patterns
 <div align="center">
 
 _"Ship real products, not tutorials."_
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,50:1A1A3E,100:0F0C29&height=120&section=footer"/>
 
 </div>
