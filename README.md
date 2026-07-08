@@ -89,43 +89,6 @@ building full-stack projects.
 
 ---
 
-# Currently Building
-
-<table>
-
-<tr>
-
-<td width="60%">
-
-## 🚀 Startup Connect
-
-A SaaS platform connecting entrepreneurs and
-investors through a modern role-based system.
-
-### Current Progress
-
-- Authentication ✅
-- REST APIs ✅
-- Role-based Dashboards ✅
-- PostgreSQL Integration 🚧
-- Backend Optimization 🚧
-
-</td>
-
-<td width="40%">
-
-### Current Learning
-
-- PostgreSQL
-- Docker
-- Redis
-- System Design
-- Backend Architecture
-
-</td>
-
-</tr>
-
 <!-- ========================================================= -->
 <!--                  FEATURED PROJECTS                         -->
 <!-- ========================================================= -->
@@ -142,7 +105,7 @@ investors through a modern role-based system.
 
 <td width="50%" valign="top">
 
-## 🚀 Startup Connect
+## 🚀 Nexus Platform
 
 **Entrepreneur ↔ Investor Platform**
 
@@ -408,8 +371,6 @@ Expected Graduation: **2029**
 
 Graduated among the top-performing students.
 
-**Achievement**
-
 Third Position
 
 </td>
@@ -452,10 +413,6 @@ Consistently expanding expertise in backend engineering, databases, and scalable
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats-three-xi-28.vercel.app/api?username=m-zaki-237&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=FACC15&text_color=FFFFFF"/>
-
-<br><br>
-
 <img width="49%" src="https://github-readme-stats-three-xi-28.vercel.app/api/top-langs/?username=m-zaki-237&layout=compact&hide_border=true&bg_color=0D1117&title_color=FACC15&text_color=FFFFFF"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=m-zaki-237&theme=github-dark&hide_border=true"/>
@@ -490,42 +447,6 @@ alt="GitHub Contribution Snake"/>
 </picture>
 
 </div>
-
----
-
-# Current Roadmap
-
-```text
-Completed
-
-✓ HTML
-✓ CSS
-✓ JavaScript
-✓ React
-✓ Node.js
-✓ Express
-✓ MongoDB
-✓ REST APIs
-✓ Deployment
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-Currently Learning
-
-◉ PostgreSQL
-◉ Docker
-◉ Redis
-◉ System Design
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-Next Goals
-
-○ CI/CD
-○ Kubernetes
-○ AWS
-○ Microservices
-```
 
 ---
 
