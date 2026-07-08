@@ -94,7 +94,6 @@ building full-stack projects.
 <!-- ========================================================= -->
 
 # Featured Projects
-
 > Projects that reflect my approach to building scalable, production-ready software.
 
 <br>
@@ -337,25 +336,6 @@ Worked as a Full-Stack Development Intern where I built, tested and deployed a c
 `ImageKit`
 `Docker`
 `Git`
-
----
-
-# Education
-
-## 🎓 BS Computer Science
-
-**COMSATS University Islamabad**
-
-Expected Graduation: **2029**
-
-### Relevant Coursework
-
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Database Systems
-- Operating Systems
-- Software Engineering
-- Computer Networks
 
 ---
 
