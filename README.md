@@ -17,7 +17,7 @@ Building scalable web applications with a passion for clean architecture, backen
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-zakria-7a8402330/">
-<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=FACC15"/>
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=simpleicons&logoColor=FACC15"/>
 </a>
 
 <a href="mailto:muhammadzakriaawan237@gmail.com">
@@ -345,17 +345,17 @@ Worked as a Full-Stack Development Intern where I built, tested and deployed a c
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🥉 Saylani Mass IT Training
 
 Graduated among the top-performing students.
 
-Third Position
+**Third Position**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 💼 Internship
 
@@ -367,7 +367,7 @@ Successfully completed a Full-Stack Development Internship while delivering a pr
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🚀 Full Stack Projects
 
@@ -375,7 +375,7 @@ Designed and developed multiple complete applications from frontend to deploymen
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📚 Continuous Learning
 
@@ -388,14 +388,12 @@ Consistently expanding expertise in backend engineering, databases, and scalable
 </table>
 
 ---
-
 # GitHub Insights
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-three-xi-28.vercel.app/api/top-langs/?username=m-zaki-237&layout=compact&hide_border=true&bg_color=0D1117&title_color=FACC15&text_color=FFFFFF"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=m-zaki-237&theme=github-dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-three-xi-28.vercel.app/api/top-langs/?username=m-zaki-237&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=m-zaki-237&theme=github-dark&hide_border=true&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&sideLabels=FFFFFF&currStreakNum=FACC15&sideNums=FFFFFF&dates=FFFFFF"/>
 
 </div>
 
