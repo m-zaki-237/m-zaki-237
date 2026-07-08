@@ -392,7 +392,7 @@ Consistently expanding expertise in backend engineering, databases, and scalable
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-three-xi-28.vercel.app/api/top-langs/?username=m-zaki-237&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats-three-xi-28.vercel.app/api/top-langs/?username=m-zaki-237&layout=compact&hide_border=true&text_color=FFFFFF"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=m-zaki-237&theme=github-dark&hide_border=true&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&sideLabels=FFFFFF&currStreakNum=FACC15&sideNums=FFFFFF&dates=FFFFFF"/>
 
 </div>
@@ -437,7 +437,7 @@ alt="GitHub Contribution Snake"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-zakria-7a8402330/">
-<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=FACC15"/>
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=simpleicons&logoColor=FACC15"/>
 </a>
 
 <a href="mailto:muhammadzakriaawan237@gmail.com">
