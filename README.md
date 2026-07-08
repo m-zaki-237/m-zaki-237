@@ -1,83 +1,59 @@
-<!-- ===================================================== -->
-<!--                    HERO SECTION                        -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!--                    MUHAMMAD ZAKRIA                         -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FACC15"/>
-
-<br>
-
-# MUHAMMAD ZAKRIA
+# Muhammad Zakria
 
 ### Full-Stack Developer
 
-> Building scalable web applications from database design to deployment.
+Building scalable web applications with a passion for clean architecture, backend engineering, and delivering production-ready software.
 
 <br>
 
 <a href="https://zakria-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FACC15?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=FACC15"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-zakria-7a8402330/">
-    <img src="https://img.shields.io/badge/LinkedIn-FACC15?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=FACC15"/>
 </a>
 
 <a href="mailto:muhammadzakriaawan237@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FACC15?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=FACC15"/>
 </a>
 
 <a href="https://github.com/m-zaki-237">
-    <img src="https://img.shields.io/badge/GitHub-FACC15?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=FACC15"/>
 </a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2500&center=true&vCenter=true&width=700&color=FACC15&lines=Building+real+products.;Backend-first+mindset.;Always+learning.+Always+shipping."/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# About
 
-I'm a Computer Science undergraduate who enjoys turning ideas into complete products.
+```text
+Computer Science Undergraduate
+COMSATS University Islamabad
 
-Instead of focusing on isolated technologies, I enjoy building systems end-to-end—from designing databases and APIs to creating responsive user interfaces and deploying applications.
+Focused on building complete software products
+instead of isolated features.
 
-My current focus is strengthening my backend engineering skills while continuing to build production-ready full-stack applications.
+My interests revolve around backend engineering,
+REST APIs, database design, scalable architecture,
+and transforming ideas into production-ready
+applications.
 
-<br>
-
-```yaml
-Name: Muhammad Zakria
-
-Education:
-  - BS Computer Science
-  - COMSATS University Islamabad
-
-Current Focus:
-  - PostgreSQL
-  - System Design
-  - Docker
-  - Redis
-
-Experience:
-  - Software Development Intern
-  - DevelopersHub Corporation
-
-Achievement:
-  - 🥉 3rd Place
-    Saylani MERN Stack Program
-
-Currently Building:
-  - Startup Connect
+Currently expanding my knowledge in PostgreSQL,
+Docker, Redis, and System Design while actively
+building full-stack projects.
 ```
 
 ---
 
-# ⚙️ Tech Stack
+## Tech Snapshot
 
 <div align="center">
 
@@ -89,7 +65,7 @@ Currently Building:
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,redux,vite,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite&theme=dark"/>
 
 <br><br>
 
@@ -99,13 +75,13 @@ Currently Building:
 
 <br><br>
 
-### Databases
+### Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis&theme=dark"/>
 
 <br><br>
 
-### DevOps & Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,postman,vscode&theme=dark"/>
 
@@ -113,106 +89,110 @@ Currently Building:
 
 ---
 
-# 🚀 What I'm Working On
+# Currently Building
 
 <table>
+
 <tr>
 
-<td width="50%">
+<td width="60%">
 
-### 🚧 Startup Connect
+## 🚀 Startup Connect
 
-Building a SaaS platform that connects entrepreneurs with investors.
+A SaaS platform connecting entrepreneurs and
+investors through a modern role-based system.
 
-**Current Goals**
+### Current Progress
 
-- Authentication
-- Role-based dashboards
-- PostgreSQL integration
-- Backend optimization
-- Scalable architecture
+- Authentication ✅
+- REST APIs ✅
+- Role-based Dashboards ✅
+- PostgreSQL Integration 🚧
+- Backend Optimization 🚧
 
 </td>
 
-<td width="50%">
+<td width="40%">
 
-### 📚 Learning
-
-Currently investing most of my learning time in:
+### Current Learning
 
 - PostgreSQL
-- Database Design
-- System Design
 - Docker
+- Redis
+- System Design
 - Backend Architecture
 
 </td>
 
 </tr>
-</table>
-<!-- ===================================================== -->
-<!--                 FEATURED PROJECTS                      -->
-<!-- ===================================================== -->
 
-# 🚀 Featured Projects
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                         -->
+<!-- ========================================================= -->
 
-<p align="center">
+# Featured Projects
 
-> A selection of projects that demonstrate my experience building full-stack applications, backend systems, and production-ready software.
+> Projects that reflect my approach to building scalable, production-ready software.
 
-</p>
-
----
+<br>
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🚀 Startup Connect
 
-### Entrepreneur ↔ Investor Platform
+**Entrepreneur ↔ Investor Platform**
 
-A modern SaaS platform connecting entrepreneurs with investors through a role-based ecosystem.
+A SaaS platform that enables entrepreneurs and investors to connect through role-based dashboards and collaboration workflows.
 
-**Highlights**
+### Highlights
 
 - 🔐 Authentication & Authorization
-- 👥 Multi-role dashboards
-- 📅 Meeting management
-- 💬 Collaboration requests
-- 📊 Analytics-ready architecture
+- 👥 Multi-role Architecture
+- 📅 Meeting Management
+- 💬 Collaboration Requests
+- 📈 Profile Analytics
+- 🌐 REST API Driven
 
-**Tech**
+### Tech Stack
 
 `React`
+
 `TypeScript`
+
 `Node.js`
+
 `Express`
+
 `MongoDB`
 
-**Status**
+### Status
 
-🚧 Active Development
+🟡 Active Development
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🛒 Full-Stack E-Commerce
+## 🛒 E-Commerce Platform
 
-Built during my internship at DevelopersHub Corporation.
+**Internship Project**
 
-**Highlights**
+A complete MERN application developed during my software development internship.
 
-- 🛍 Product management
-- 📦 Orders & Inventory
-- 👤 Admin dashboard
-- ☁ ImageKit integration
-- ⚡ Redis caching
+### Highlights
 
-**Tech**
+- 🛍 Product Management
+- 📦 Inventory System
+- 👤 Admin Dashboard
+- 📸 ImageKit Integration
+- ⚡ Redis Caching
+- 🔒 Authentication
+
+### Tech Stack
 
 `React`
 
@@ -226,7 +206,7 @@ Built during my internship at DevelopersHub Corporation.
 
 `ImageKit`
 
-**Deployment**
+### Deployment
 
 Vercel • Render • MongoDB Atlas
 
@@ -236,52 +216,55 @@ Vercel • Render • MongoDB Atlas
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🖼 Media Gallery
+## 🖼️ Media Gallery
 
-Pinterest-inspired media search application.
+**Pinterest-style Image Search**
 
-**Features**
+A responsive media application that integrates multiple image providers into one seamless search experience.
 
-- Infinite Scroll
-- Redux Toolkit
-- Multi API Search
-- Responsive UI
+### Highlights
 
-**Tech**
+- 🔍 Multi-API Search
+- ♾ Infinite Scrolling
+- ⚡ Redux Toolkit
+- 📱 Responsive Layout
+- 🎨 Masonry Grid
+
+### Tech Stack
 
 `React`
 
 `Redux Toolkit`
 
-`Pexels API`
-
 `Unsplash API`
+
+`Pexels API`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📦 SwiftShip
 
-Courier Management System
+**Courier Management System**
 
-A desktop application developed using Java.
+A desktop application developed in Java to strengthen object-oriented programming concepts.
 
-**Features**
+### Highlights
 
-- Customer Management
-- Agent Dashboard
-- Admin Panel
-- File Handling
-- Object-Oriented Design
+- 👤 Customer Management
+- 🚚 Agent Dashboard
+- 🔐 Admin Panel
+- 💾 File Handling
+- 🏗 Object-Oriented Design
 
-**Tech**
+### Tech Stack
 
 `Java`
 
-`Swing`
+`Java Swing`
 
 `OOP`
 
@@ -293,100 +276,205 @@ A desktop application developed using Java.
 
 ---
 
-# 💼 Professional Experience
+# Engineering Principles
 
-## Software Development Intern
+<table>
 
+<tr>
+
+<td width="33%" align="center">
+
+### 🧩 Clean Architecture
+
+I enjoy building software with clear separation between frontend, backend, and data layers.
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙ Backend First
+
+My current learning focuses on APIs, databases, caching, deployment, and scalable backend systems.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚀 Continuous Improvement
+
+Every project is an opportunity to refine architecture, improve performance, and learn new technologies.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Project Highlights
+
+```text
+✓ Authentication Systems
+
+✓ REST APIs
+
+✓ CRUD Applications
+
+✓ Admin Dashboards
+
+✓ Role-Based Authorization
+
+✓ Responsive UI
+
+✓ Redis Caching
+
+✓ Image Optimization
+
+✓ Deployment
+
+✓ Database Design
+
+✓ API Integration
+
+✓ State Management
+```
+
+---
+
+<!-- ========================================================= -->
+<!--              EXPERIENCE • ACHIEVEMENTS                    -->
+<!-- ========================================================= -->
+
+# Professional Experience
+
+## 💼 Software Development Intern
 ### DevelopersHub Corporation · 2026
 
-Worked as a Full-Stack Development Intern where I built and deployed a complete MERN application while collaborating through real-world development workflows.
+Worked as a Full-Stack Development Intern where I built, tested and deployed a complete MERN application while collaborating through a real software development workflow.
 
 ### Responsibilities
 
 - Developed responsive React interfaces
-- Built REST APIs with Express
-- Designed MongoDB schemas
-- Implemented Redis caching
-- Integrated ImageKit media storage
-- Fixed production issues during QA
+- Built RESTful APIs using Express.js
+- Designed MongoDB database schemas
+- Integrated Redis caching
+- Implemented ImageKit media storage
+- Fixed production and QA issues
 - Deployed applications using Vercel & Render
+- Collaborated using Git & GitHub
 
-### Technologies Used
+### Technologies
 
 `React`
 `Node.js`
 `Express`
 `MongoDB`
 `Redis`
-`Docker`
 `ImageKit`
+`Docker`
 `Git`
 
 ---
 
-# 🏆 Achievements
+# Education
 
-| Achievement | Description |
-|-------------|-------------|
-| 🥉 **3rd Place** | Saylani Mass IT Training — MERN Stack |
-| 💼 **Internship** | Successfully completed Full-Stack Internship |
-| 🚀 **Projects** | Multiple end-to-end full-stack applications |
-| 📚 **Continuous Learning** | Expanding backend & system design expertise |
+## 🎓 BS Computer Science
 
----
+**COMSATS University Islamabad**
 
-# 📈 Development Philosophy
+Expected Graduation: **2029**
 
-```text
-Learn deeply.
-Build consistently.
-Ship real products.
-Iterate relentlessly.
-```
+### Relevant Coursework
 
-Rather than collecting certificates or following tutorials endlessly, I prefer learning by building complete applications that solve real problems.
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Database Systems
+- Operating Systems
+- Software Engineering
+- Computer Networks
 
 ---
 
-<!-- ===================================================== -->
-<!--                  GITHUB INSIGHTS                       -->
-<!-- ===================================================== -->
+# Achievements
 
-# 📊 GitHub Insights
+<table>
 
-<p align="center">
+<tr>
 
-> Consistency matters more than intensity.
+<td width="50%">
 
-</p>
+## 🥉 Saylani Mass IT Training
 
-<br>
+Graduated among the top-performing students.
+
+**Achievement**
+
+Third Position
+
+</td>
+
+<td width="50%">
+
+## 💼 Internship
+
+Successfully completed a Full-Stack Development Internship while delivering a production-ready MERN application.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🚀 Full Stack Projects
+
+Designed and developed multiple complete applications from frontend to deployment.
+
+</td>
+
+<td width="50%">
+
+## 📚 Continuous Learning
+
+Consistently expanding expertise in backend engineering, databases, and scalable system design.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# GitHub Insights
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats-three-xi-28.vercel.app/api?username=m-zaki-237&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=FACC15&text_color=FFFFFF&border_radius=12"/>
+<img width="100%" src="https://github-readme-stats-three-xi-28.vercel.app/api?username=m-zaki-237&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=FACC15&text_color=FFFFFF"/>
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats-three-xi-28.vercel.app/api/top-langs/?username=m-zaki-237&layout=compact&hide_border=true&bg_color=0D1117&title_color=FACC15&text_color=FFFFFF&border_radius=12"/>
+<img width="49%" src="https://github-readme-stats-three-xi-28.vercel.app/api/top-langs/?username=m-zaki-237&layout=compact&hide_border=true&bg_color=0D1117&title_color=FACC15&text_color=FFFFFF"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=m-zaki-237&theme=github-dark-blue&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=m-zaki-237&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=m-zaki-237&bg_color=0D1117&color=FACC15&line=FFD54F&point=FFFFFF&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=m-zaki-237&bg_color=0D1117&color=FACC15&line=EAB308&point=FFFFFF&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <div align="center">
 
@@ -395,11 +483,9 @@ Rather than collecting certificates or following tutorials endlessly, I prefer l
 <source media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/m-zaki-237/m-zaki-237/output/github-contribution-grid-snake-dark.svg">
 
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/m-zaki-237/m-zaki-237/output/github-contribution-grid-snake.svg">
-
-<img alt="Contribution Snake"
-src="https://raw.githubusercontent.com/m-zaki-237/m-zaki-237/output/github-contribution-grid-snake-dark.svg">
+<img
+src="https://raw.githubusercontent.com/m-zaki-237/m-zaki-237/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"/>
 
 </picture>
 
@@ -407,67 +493,60 @@ src="https://raw.githubusercontent.com/m-zaki-237/m-zaki-237/output/github-contr
 
 ---
 
-# 🎯 Current Roadmap
+# Current Roadmap
 
 ```text
-██████████████████████████████
+Completed
 
+✓ HTML
+✓ CSS
 ✓ JavaScript
 ✓ React
 ✓ Node.js
 ✓ Express
 ✓ MongoDB
 ✓ REST APIs
-✓ MERN Deployment
-✓ Redis
+✓ Deployment
 
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━
+
+Currently Learning
 
 ◉ PostgreSQL
-
 ◉ Docker
-
-◉ Authentication Architecture
-
-◉ Backend Optimization
-
+◉ Redis
 ◉ System Design
 
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━
 
-Future
-
-○ Microservices
-
-○ Kubernetes
-
-○ AWS
+Next Goals
 
 ○ CI/CD
-
-██████████████████████████████
+○ Kubernetes
+○ AWS
+○ Microservices
 ```
 
 ---
 
-# 📫 Let's Connect
+# Let's Connect
 
 <div align="center">
 
 <a href="https://zakria-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-FACC15?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=FACC15"/>
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-zakria-7a8402330/">
-<img src="https://img.shields.io/badge/LinkedIn-FACC15?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=FACC15"/>
 </a>
 
 <a href="mailto:muhammadzakriaawan237@gmail.com">
-<img src="https://img.shields.io/badge/Email-FACC15?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=FACC15"/>
 </a>
 
 <a href="https://github.com/m-zaki-237">
-<img src="https://img.shields.io/badge/GitHub-FACC15?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=FACC15"/>
 </a>
 
 </div>
@@ -476,8 +555,13 @@ Future
 
 <div align="center">
 
-## Thanks for stopping by.
+### *"Building software that is reliable, scalable, and continuously improving."*
 
-**Building software that solves problems, scales thoughtfully, and keeps getting better with every iteration.**
+⭐ Thanks for visiting my profile.
 
-</div>---
+</div>
+
+
+</table>
+
+---
