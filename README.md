@@ -78,22 +78,25 @@ I enjoy designing complete applications—from frontend interfaces to backend AP
 
 # 📊 GitHub Statistics
 
-> Replace `YOUR-VERCEL-URL` with your self-hosted GitHub Readme Stats deployment.
-
 <div align="center">
 
-<img height="170" src="https://YOUR-VERCEL-URL.vercel.app/api?username=m-zaki-237&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img src="https://github-readme-stats-three-xi-28.vercel.app/api?username=m-zaki-237&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0F0C29" width="49%"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=m-zaki-237&theme=midnight-purple&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=m-zaki-237&theme=midnight-purple&hide_border=true&background=0F0C29" width="49%"/>
 
 <br/>
 
-<img height="170" src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=m-zaki-237&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img src="https://github-readme-stats-three-xi-28.vercel.app/api/top-langs/?username=m-zaki-237&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0F0C29" width="45%"/>
 
 </div>
 
 ---
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=m-zaki-237&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
 # 🚀 Featured Projects
 
 ## 💡 Startup Connect
