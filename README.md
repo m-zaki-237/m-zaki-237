@@ -10,9 +10,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/BS%20Computer%20Science-COMSATS%20University%20Islamabad-1E1B3A?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Attock%2C%20Punjab%2C%20Pakistan-14122B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
 <br/><br/>
 
 <a href="https://zakria-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -21,10 +18,6 @@
 <a href="https://github.com/m-zaki-237"><img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=m-zaki-237&style=for-the-badge&color=302b63&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/m-zaki-237?style=for-the-badge&color=1e1b3a&label=FOLLOWERS&logo=github"/>
-<img src="https://img.shields.io/github/stars/m-zaki-237?style=for-the-badge&color=14122b&label=STARS"/>
 
 </div>
 
@@ -163,17 +156,6 @@ Built and deployed a full-stack MERN e-commerce application with a complete admi
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=m-zaki-237&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0F0C29" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=m-zaki-237&theme=midnight-purple&hide_border=true&background=0F0C29" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-zaki-237&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0F0C29" width="45%"/>
-
-</div>
 
 ---
 
