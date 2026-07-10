@@ -68,45 +68,6 @@ Building scalable web applications with a passion for clean architecture, backen
 
 ---
 
-# Engineering Principles
-
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-### 🧩 Clean Architecture
-
-I enjoy building software with clear separation between frontend, backend, and data layers.
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙ Backend First
-
-My current learning focuses on APIs, databases, caching, deployment, and scalable backend systems.
-
-</td>
-
-<td width="33%" align="center">
-
-<div align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/m-zaki-237/m-zaki-237/output/github-contribution-grid-snake-dark.svg">
-
-<img
-src="https://raw.githubusercontent.com/m-zaki-237/m-zaki-237/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"/>
-
-</picture>
-
-</div>
-
 ---
 
 # Let's Connect
