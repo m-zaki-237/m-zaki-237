@@ -70,6 +70,25 @@ Building scalable web applications with a passion for clean architecture, backen
 
 ---
 
+---
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/m-zaki-237/m-zaki-237/output/github-contribution-grid-snake-dark.svg">
+
+<img
+src="https://raw.githubusercontent.com/m-zaki-237/m-zaki-237/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"/>
+
+</picture>
+
+</div>
+
+---
+
 # Let's Connect
 
 <div align="center">
