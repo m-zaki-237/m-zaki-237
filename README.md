@@ -68,10 +68,6 @@ Building scalable web applications with a passion for clean architecture, backen
 
 ---
 
----
-
----
-
 <div align="center">
 
 <picture>
