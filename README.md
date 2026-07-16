@@ -18,11 +18,11 @@
 
 <div align="center">
   <a href="YOUR_PORTFOLIO_LINK" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Coming_Soon-00f0ff?style=for-the-badge&logo=internet-explorer&logoColor=ffffff&labelColor=150a21" alt="Portfolio Link" />
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Coming_Soon-00f0ff?style=for-the-badge&logo=internet-explorer&logoColor=ffffff&labelColor=150a21" alt="https://zakria-portfolio.vercel.app/" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="YOUR_LINKEDIN_LINK" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-Muhammad_Zakria-ff66cc?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=150a21" alt="LinkedIn Link" />
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-Muhammad_Zakria-ff66cc?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=150a21" alt="https://www.linkedin.com/in/muhammad-zakria-7a8402330/" />
   </a>
 </div>
 
@@ -96,12 +96,6 @@ Target: Software Engineering Internship & Open Source Contributions
 </table>
 
 ---
-
-<p align="center">
-  <strong><a href="YOUR_PORTFOLIO_LINK">Portfolio</a></strong> |
-  <strong><a href="YOUR_GITHUB_LINK">GitHub</a></strong> |
-  <strong><a href="YOUR_LINKEDIN_LINK">LinkedIn</a></strong>
-</p>
 
 <p align="center">
     <a href="https://octo-ring.com/p/Wired-Zaki0x1F/prev">&larr;</a>
