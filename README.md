@@ -1,9 +1,8 @@
 # 🌐 m-zaki-237
 
 <div align="center">
-  <picture>
-    <img src="terminal.svg?v=6" width="850" alt="NAVI terminal showing system parameters and technical skills" style="max-width: 100%; height: auto;" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=m-zaki-237&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=00f0ff&icon_color=ff66cc&text_color=c9d1d9" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=m-zaki-237&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=00f0ff&fire=ff66cc&currStreakLabel=00f0ff" width="49%" alt="GitHub Streak" />
 </div>
 
 <br />
@@ -107,11 +106,14 @@ Courier management system with admin, customer, and agent interfaces applying co
 
 <table width="100%" border="0" cellspacing="0" cellpadding="10" style="border: none;">
   <tr>
+    <td width="30%" align="center" valign="middle" style="border: none;">
+      <img src="https://media.tenor.com/x8v1oNUOmg4AAAAM/lain-serial-experiments-lain.gif" width="180" alt="Lain connected to the Wired" style="border-radius: 4px;" />
+    </td>
     <td width="70%" valign="middle" style="border: none; font-family: monospace; line-height: 1.6;">
-      <p><i>"No matter where you are, everyone is always connected."</i><br>
+      <p><i>"No matter where you are, everyone is always connected. Even if you die, your consciousness remains in the Wired."</i><br>
       <strong>— Serial Experiments Lain</strong></p>
       <br>
-      <p><i>"El Psy Kongroo."</i><br>
+      <p><i>"This is the choice of Steins;Gate. The world line can be rewritten. El Psy Kongroo."</i><br>
       <strong>— Okabe Rintaro (Steins;Gate)</strong></p>
     </td>
   </tr>
