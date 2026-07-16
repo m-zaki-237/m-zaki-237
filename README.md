@@ -1,23 +1,28 @@
-# 🌐 m-zaki-237
+# 🌐 Wired-Navi0x1F
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-zaki-237&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=00f0ff&icon_color=ff66cc&text_color=c9d1d9" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=m-zaki-237&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=00f0ff&fire=ff66cc&currStreakLabel=00f0ff" width="49%" alt="GitHub Streak" />
+  <picture>
+    <img src="terminal.svg?v=6" width="850" alt="Lain-themed NAVI terminal showing system parameters and technical skills" style="max-width: 100%; height: auto;" />
+  </picture>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/m-zaki-237" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐_GITHUB-m--zaki--237-00f0ff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=150a21" alt="GitHub" />
+  <picture>
+    <img src="divergence_meter.svg?v=6" width="680" alt="Steins;Gate Nixie Tube World Line Divergence Meter displaying 1.048596%" style="max-width: 100%; height: auto;" />
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://pr0t0lain.dpdns.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐_NODE_DOMAIN-pr0t0lain.dpdns.org-00f0ff?style=for-the-badge&logo=internet-explorer&logoColor=ffffff&labelColor=150a21" alt="Website Link" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/📡_CONTACT-Email-ff66cc?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=150a21" alt="Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-Connect-7b61ff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=150a21" alt="LinkedIn" />
+  <a href="https://in.linkedin.com/in/haru-l41n-pr0t0" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/💼_GUILD_LINK-linkedin.com/in/haru--l41n--pr0t0-ff66cc?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=150a21" alt="LinkedIn Link" />
   </a>
 </div>
 
@@ -25,22 +30,19 @@
 
 ## ─── 📡 BIOLOGICAL NODE PARAMETERS (ABOUT ME) ───
 
-I'm **Muhammad Zakria** — a **Computer Science** undergraduate at **COMSATS University Islamabad, Attock Campus** (GPA: 3.77), and a **MERN Stack Developer** with real-world experience building and shipping full-stack web applications.
+I am a **Computer Science & Engineering (CSE)** student at **RV University** (Bengaluru, India), specializing in Artificial Intelligence, Machine Learning, and low-level system logic. I build systems where neural algorithms interface with physical data layers.
 
-- 🔭 **Current Role:** Software Development Intern @ **DevelopersHub Corporation** — building and deploying production MERN applications
-- 🏆 **Achievement:** Ranked **3rd** in Saylani Mass IT Training's 10-month MERN Stack Development Bootcamp
-- 🚀 **Flagship Project:** **Nexus** — a full-stack startup networking platform connecting entrepreneurs and investors, featuring real-time chat via Socket.IO
-- 🎯 **Goal:** Build a production-ready SaaS product during university and scale it nationally and internationally
+*   🔭 **Current Project & Focus:** Solving daily Data Structures & Algorithms challenges in **Java** across **LeetCode** and **HackerRank** platforms.
+*   🤖 **Open-Source Exploration:** Investigating **KDE** environment modules and desktop components to establish upstream contribution channels.
+*   🦾 **Academic Pursuits:** Pursuing my B.Tech (Hons.) in Artificial Intelligence & Machine Learning (2025 – Present), focusing on algorithmic design, complexity analysis, and logical systems.
 
 ---
 
 ### 🧠 CORE SYSTEM SPECS (TECH STACK)
 
-- **Languages:** `JavaScript` `TypeScript` `Java` `Python` `HTML` `CSS`
-- **Frontend:** `React.js` `Redux Toolkit` `Tailwind CSS` `Zustand` `Framer Motion`
-- **Backend:** `Node.js` `Express.js` `REST APIs` `Socket.IO`
-- **Database:** `MongoDB` `Mongoose` `PostgreSQL`
-- **Tools:** `Git` `GitHub` `VS Code` `Vercel` `Render` `MongoDB Atlas`
+*   **Programming Languages:** `Python`, `C`, `C++`, `HTML5`, `CSS3`, `JavaScript`
+*   **Frameworks & Libraries:** `TensorFlow`, `PyTorch`, `Pandas`, `NumPy`, `FastAPI`, `Flask`, `Three.js`
+*   **Tools & Environments:** `Git`, `GitHub`, `Linux`, `ROS2`, `VS Code`, `Jupyter`
 
 ---
 
@@ -48,56 +50,26 @@ I'm **Muhammad Zakria** — a **Computer Science** undergraduate at **COMSATS Un
 
 <!--SYSTEM_STATE:START-->
 ```
-m-zaki-237@node
+Wired-Navi0x1F@arch
 -------------------
-OS:       MERN Stack Dev
-Host:     COMSATS University Islamabad — Attock Campus
-Kernel:   BS Computer Science, 3rd Semester (GPA: 3.77)
-Uptime:   Intern @ DevelopersHub Corporation
-Shell:    JavaScript / TypeScript
-Project:  Nexus — Startup Networking Platform
-Target:   SaaS product → National & International scale
+OS: CachyOS
+Host: Layer 07 // The Wired
+Kernel: 7.1.3-2-cachyos
+Uptime: Always Connected
+Shell: fish
+Project: Data Structures & Algorithms in Java (HackerRank & LeetCode)
+Research: Algorithm Complexity and Performance Tuning
+Target: Daily LeetCode/HackerRank Problem Solving
 ```
 <!--SYSTEM_STATE:END-->
 
 ---
 
-### 🛰️ ACTIVE TRANSMISSIONS (PROJECTS)
-
-#### [Nexus](https://github.com/m-zaki-237/Nexus) — Startup Networking Platform
-> React/TypeScript · Node.js · Express · MongoDB · Socket.IO
-
-Full-stack platform connecting entrepreneurs and investors. Features real-time messaging with online presence tracking, collaboration requests, document sharing, meetings, and dual dashboards (entrepreneur & investor). Replaced all frontend mock data with live API calls across all major pages.
-
----
-
-#### [MERN E-Commerce Platform](https://github.com/m-zaki-237) — Internship @ DevelopersHub
-> React · Node.js · Express · MongoDB · Tailwind CSS · Zustand
-
-Production e-commerce app with an admin dashboard for product, order, and inventory management. Deployed on Vercel + Render + MongoDB Atlas.
-
----
-
-#### [Media Gallery App](https://github.com/m-zaki-237)
-> React · Redux Toolkit · Unsplash API · Pexels API
-
-Pinterest-style image gallery with search, filtering, and infinite scroll.
-
----
-
-#### [SwiftShip — Courier Tracking System](https://github.com/m-zaki-237)
-> Java · Java Swing · OOP
-
-Courier management system with admin, customer, and agent interfaces applying core OOP principles (inheritance, encapsulation, polymorphism).
-
----
-
-### 💡 STAGED PROTOCOLS (WHAT'S NEXT)
+### 💡 STAGED PROTOCOLS (IDEAS & BACKLOG)
 
 <!--STAGED_IDEAS:START-->
-- Scale **Nexus** with advanced features — deals flow, investor matching, startup analytics
-- Build and launch a **production SaaS product** during university
-- Deepen expertise in **system design** and **distributed systems**
+*   Exploring KDE environment modules & desktop components
+*   Targeting open-source contributions to public system repositories
 <!--STAGED_IDEAS:END-->
 
 ---
@@ -107,7 +79,7 @@ Courier management system with admin, customer, and agent interfaces applying co
 <table width="100%" border="0" cellspacing="0" cellpadding="10" style="border: none;">
   <tr>
     <td width="30%" align="center" valign="middle" style="border: none;">
-      <img src="https://media.tenor.com/x8v1oNUOmg4AAAAM/lain-serial-experiments-lain.gif" width="180" alt="Lain connected to the Wired" style="border-radius: 4px;" />
+      <img src="lain-wired.gif" width="180" alt="Lain connected to the Wired" style="border-radius: 4px;" />
     </td>
     <td width="70%" valign="middle" style="border: none; font-family: monospace; line-height: 1.6;">
       <p><i>"No matter where you are, everyone is always connected. Even if you die, your consciousness remains in the Wired."</i><br>
@@ -121,8 +93,23 @@ Courier management system with admin, customer, and agent interfaces applying co
 
 ---
 
+<p align="center">
+  <strong><a href="https://pr0t0lain.dpdns.org">Website</a></strong> |
+  <strong><a href="https://in.linkedin.com/in/haru-l41n-pr0t0">LinkedIn</a></strong> |
+  <strong><a href="https://discord.com/users/lain_0x00.navi" title="Discord ID: lain_0x00.navi">Discord (Navi...)</a></strong>
+</p>
+
+<p align="center">
+    <a href="https://octo-ring.com/p/Wired-Navi0x1F/prev">&larr;</a>
+    <a class="cactus-link" href="https://octo-ring.com">Octo Ring</a>
+    <a href="https://octo-ring.com/p/Wired-Navi0x1F/random">🎲</a>
+    <a href="https://octo-ring.com/p/Wired-Navi0x1F/next">&rarr;</a>
+</p>
+
+---
+
 <div align="center">
-  <p style="font-family: monospace; color: #5d4370; font-size: 11px;">
-    WIRED PROTOCOL INITIATED // MERN STACK ACTIVE // CLOSE THE WORLD, OPEN THE NEXT.
+  <p align="center" style="font-family: monospace; color: #5d4370; font-size: 11px;">
+    WIRED PROTOCOL INITIATED // IP STATE: SECURE // CLOSE THE WORLD, OPEN THE NEXT.
   </p>
 </div>
