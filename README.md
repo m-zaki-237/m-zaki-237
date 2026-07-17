@@ -22,7 +22,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/muhammad-zakria-7a8402330/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/💼_GUILD_LINK-linkedin.com/in/your--linkedin-ff66cc?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=150a21" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/💼_GUILD_LINK-linkedin.com/?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=150a21" alt="LinkedIn" />
   </a>
 </div>
 
