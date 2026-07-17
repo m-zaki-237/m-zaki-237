@@ -1,8 +1,8 @@
-# 🌐 Wired-Zaki0x1F
+# 🌐 m-zaki-237
 
 <div align="center">
   <picture>
-    <img src="terminal.svg?v=6" width="850" alt="Cyber terminal showing system parameters and technical skills" style="max-width: 100%; height: auto;" />
+    <img src="terminal.svg" width="850" alt="NAVI terminal — m-zaki-237 system parameters and tech stack" style="max-width: 100%; height: auto;" />
   </picture>
 </div>
 
@@ -10,19 +10,19 @@
 
 <div align="center">
   <picture>
-    <img src="divergence_meter.svg?v=6" width="680" alt="Steins;Gate Nixie Tube World Line Divergence Meter" style="max-width: 100%; height: auto;" />
+    <img src="divergence_meter.svg" width="680" alt="Steins;Gate Nixie Tube World Line Divergence Meter" style="max-width: 100%; height: auto;" />
   </picture>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Coming_Soon-00f0ff?style=for-the-badge&logo=internet-explorer&logoColor=ffffff&labelColor=150a21" alt="https://zakria-portfolio.vercel.app/" />
+  <a href="https://github.com/m-zaki-237" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐_NODE_DOMAIN-github.com/m--zaki--237-00f0ff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=150a21" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_LINK" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-Muhammad_Zakria-ff66cc?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=150a21" alt="https://www.linkedin.com/in/muhammad-zakria-7a8402330/" />
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/💼_GUILD_LINK-linkedin.com/in/your--linkedin-ff66cc?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=150a21" alt="LinkedIn" />
   </a>
 </div>
 
@@ -30,37 +30,39 @@
 
 ## ─── 📡 BIOLOGICAL NODE PARAMETERS (ABOUT ME) ───
 
-I am a **Computer Science undergraduate** at **COMSATS University Islamabad, Attock Campus**, focused on **Software Engineering, Full-Stack Web Development, Artificial Intelligence, and Backend Systems**. I enjoy building scalable applications and continuously expanding my knowledge of modern technologies.
+I am a **Computer Science** undergraduate at **COMSATS University Islamabad, Attock Campus** (GPA: 3.77), and a **MERN Stack Developer** with real-world experience building and shipping full-stack web applications.
 
-* 🔭 **Current Project & Focus:** Building full-stack applications with the **MERN Stack**, learning **Flask**, **PostgreSQL**, and integrating AI into web applications.
-* 🤖 **Current Exploration:** Studying **Generative AI**, **LangChain**, **RAG Systems**, and backend architecture while strengthening problem-solving skills.
-* 🦾 **Academic Pursuits:** Pursuing **BS Computer Science (2025 – Present)** with interests in scalable software, databases, distributed systems, and cloud deployment.
+*   🔭 **Current Project:** Building **Nexus** — a full-stack startup networking platform connecting entrepreneurs and investors, with real-time messaging via Socket.IO.
+*   💼 **Current Role:** Software Development Intern @ **DevelopersHub Corporation** — building and deploying production MERN applications.
+*   🏆 **Achievement:** Ranked **3rd** in Saylani Mass IT Training's competitive 10-month MERN Stack Development Bootcamp.
+*   🎯 **Target:** Build a production-ready SaaS product during university and scale it nationally, then internationally.
 
 ---
 
 ### 🧠 CORE SYSTEM SPECS (TECH STACK)
 
-* **Programming Languages:** `JavaScript`, `TypeScript`, `Python`, `Java`, `HTML5`, `CSS3`
-* **Frameworks & Libraries:** `React`, `Node.js`, `Express.js`, `Redux Toolkit`, `Zustand`, `Tailwind CSS`, `Flask`
-* **Databases:** `MongoDB`, `PostgreSQL`, `Mongoose`
-* **Tools & Platforms:** `Git`, `GitHub`, `Linux`, `VS Code`, `Vercel`, `Render`, `MongoDB Atlas`
+*   **Languages:** `JavaScript`, `TypeScript`, `Java`, `Python`, `HTML`, `CSS`
+*   **Frontend:** `React.js`, `Redux Toolkit`, `Tailwind CSS`, `Zustand`, `Framer Motion`
+*   **Backend:** `Node.js`, `Express.js`, `REST APIs`, `Socket.IO`
+*   **Database:** `MongoDB`, `Mongoose`, `PostgreSQL`
+*   **Tools:** `Git`, `GitHub`, `VS Code`, `Vercel`, `Render`, `MongoDB Atlas`
 
 ---
 
 ### ⚙️ SYSTEM STATE (`/dev/status`)
 
 <!--SYSTEM_STATE:START-->
-```text
-Wired-Zaki0x1F@fedora
----------------------
-OS: Fedora Linux
-Host: ThinkPad P14s Gen 1
-Kernel: Latest Stable
-Uptime: Always Building
-Shell: bash
-Current Project: Full-Stack MERN E-Commerce Platform
-Learning: Flask • PostgreSQL • AI Integration
-Target: Software Engineering Internship & Open Source Contributions
+```
+m-zaki-237@node
+-------------------
+OS:       MERN Stack Dev
+Host:     COMSATS University Islamabad, Attock Campus
+Kernel:   BS Computer Science, 3rd Semester (GPA: 3.77)
+Uptime:   Software Dev Intern @ DevelopersHub Corporation
+Shell:    JavaScript / TypeScript
+Project:  Nexus — Full-Stack Startup Networking Platform (React/TS + Node.js + Socket.IO)
+Research: System Design & Scalable SaaS Architecture
+Target:   Ship production SaaS product during university
 ```
 <!--SYSTEM_STATE:END-->
 
@@ -69,11 +71,9 @@ Target: Software Engineering Internship & Open Source Contributions
 ### 💡 STAGED PROTOCOLS (IDEAS & BACKLOG)
 
 <!--STAGED_IDEAS:START-->
-* Building AI-powered full-stack applications
-* Learning LangChain & Retrieval-Augmented Generation (RAG)
-* Exploring TypeScript and scalable backend architecture
-* Preparing for Software Engineering internships
-* Contributing to open-source projects
+*   Scale Nexus with deals flow, investor matching, and startup analytics
+*   Build and launch a production SaaS product — target national then international scale
+*   Deepen expertise in system design and distributed systems
 <!--STAGED_IDEAS:END-->
 
 ---
@@ -86,28 +86,19 @@ Target: Software Engineering Internship & Open Source Contributions
       <img src="lain-wired.gif" width="180" alt="Lain connected to the Wired" style="border-radius: 4px;" />
     </td>
     <td width="70%" valign="middle" style="border: none; font-family: monospace; line-height: 1.6;">
-      <p><i>"Programs must be written for people to read, and only incidentally for machines to execute."</i><br>
-      <strong>— Harold Abelson</strong></p>
+      <p><i>"No matter where you are, everyone is always connected. Even if you die, your consciousness remains in the Wired."</i><br>
+      <strong>— Serial Experiments Lain</strong></p>
       <br>
       <p><i>"This is the choice of Steins;Gate. The world line can be rewritten. El Psy Kongroo."</i><br>
-      <strong>— Okabe Rintaro</strong></p>
+      <strong>— Okabe Rintaro (Steins;Gate)</strong></p>
     </td>
   </tr>
 </table>
 
 ---
 
-<p align="center">
-    <a href="https://octo-ring.com/p/Wired-Zaki0x1F/prev">&larr;</a>
-    <a class="cactus-link" href="https://octo-ring.com">Octo Ring</a>
-    <a href="https://octo-ring.com/p/Wired-Zaki0x1F/random">🎲</a>
-    <a href="https://octo-ring.com/p/Wired-Zaki0x1F/next">&rarr;</a>
-</p>
-
----
-
 <div align="center">
   <p align="center" style="font-family: monospace; color: #5d4370; font-size: 11px;">
-    SYSTEM ONLINE // BUILD • LEARN • DEPLOY // ALWAYS ITERATING.
+    WIRED PROTOCOL INITIATED // IP STATE: SECURE // CLOSE THE WORLD, OPEN THE NEXT.
   </p>
 </div>
