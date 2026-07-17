@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/🌐_NODE_DOMAIN-github.com/m--zaki--237-00f0ff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=150a21" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/muhammad-zakria-7a8402330/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/💼_GUILD_LINK-linkedin.com/in/your--linkedin-ff66cc?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=150a21" alt="LinkedIn" />
   </a>
 </div>
