@@ -33,7 +33,7 @@
 I am a **Computer Science** undergraduate at **COMSATS University Islamabad, Attock Campus**, and a **MERN Stack Developer** with real-world experience building and shipping full-stack web applications.
 
 *   🔭 **Current Project:** Building **Nexus** — a full-stack startup networking platform connecting entrepreneurs and investors, with real-time messaging via Socket.IO.
-*   💼 **Current Role:** Software Development Intern @ **DevelopersHub Corporation** — building and deploying production MERN applications.
+*   💼 **Experience:** Software Development Intern @ **DevelopersHub Corporation** — building and deploying production MERN applications.
 *   🏆 **Achievement:** Ranked **3rd** in Saylani Mass IT Training's competitive 10-month MERN Stack Development Bootcamp.
 *   🎯 **Target:** Build a production-ready SaaS product during university and scale it nationally, then internationally.
 
