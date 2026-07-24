@@ -30,7 +30,7 @@
 
 ## ─── 📡 BIOLOGICAL NODE PARAMETERS (ABOUT ME) ───
 
-I am a **Computer Science** undergraduate at **COMSATS University Islamabad, Attock Campus** (GPA: 3.77), and a **MERN Stack Developer** with real-world experience building and shipping full-stack web applications.
+I am a **Computer Science** undergraduate at **COMSATS University Islamabad, Attock Campus**, and a **MERN Stack Developer** with real-world experience building and shipping full-stack web applications.
 
 *   🔭 **Current Project:** Building **Nexus** — a full-stack startup networking platform connecting entrepreneurs and investors, with real-time messaging via Socket.IO.
 *   💼 **Current Role:** Software Development Intern @ **DevelopersHub Corporation** — building and deploying production MERN applications.
@@ -55,12 +55,11 @@ I am a **Computer Science** undergraduate at **COMSATS University Islamabad, Att
 ```
 m-zaki-237@node
 -------------------
-OS:       MERN Stack Dev
-Host:     COMSATS University Islamabad, Attock Campus
-Kernel:   BS Computer Science, 3rd Semester (GPA: 3.77)
-Uptime:   Software Dev Intern @ DevelopersHub Corporation
+OS:       Fedora
+Host:     Zaki
+Kernel:   BS Computer Science
+Uptime:   Since Birth
 Shell:    JavaScript / TypeScript
-Project:  Nexus — Full-Stack Startup Networking Platform (React/TS + Node.js + Socket.IO)
 Research: System Design & Scalable SaaS Architecture
 Target:   Ship production SaaS product during university
 ```
