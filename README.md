@@ -1,45 +1,4 @@
-# 🌐 m-zaki-237
-
-<div align="center">
-  <picture>
-    <img src="terminal.svg" width="850" alt="NAVI terminal — m-zaki-237 system parameters and tech stack" style="max-width: 100%; height: auto;" />
-  </picture>
-</div>
-
-<br />
-
-<div align="center">
-  <picture>
-    <img src="divergence_meter.svg" width="680" alt="Steins;Gate Nixie Tube World Line Divergence Meter" style="max-width: 100%; height: auto;" />
-  </picture>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/m-zaki-237" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐_NODE_DOMAIN-github.com/m--zaki--237-00f0ff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=150a21" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/muhammad-zakria-7a8402330/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</div>
-
-<br />
-
-## ─── 📡 BIOLOGICAL NODE PARAMETERS (ABOUT ME) ───
-
-I am a **Computer Science** undergraduate at **COMSATS University Islamabad, Attock Campus**, and a **MERN Stack Developer** with real-world experience building and shipping full-stack web applications.
-
-*   🔭 **Current Project:** Building **Nexus** — a full-stack startup networking platform connecting entrepreneurs and investors, with real-time messaging via Socket.IO.
-*   💼 **Experience:** Software Development Intern @ **DevelopersHub Corporation** — building and deploying production MERN applications.
-*   🏆 **Achievement:** Ranked **3rd** in Saylani Mass IT Training's competitive 10-month MERN Stack Development Bootcamp.
-*   🎯 **Target:** Build a production-ready SaaS product during university and scale it nationally, then internationally.
-
----
-
-### 🧠 CORE SYSTEM SPECS (TECH STACK)
+### 🧠 CORE SYSTEM SPECS
 
 *   **Languages:** `JavaScript`, `TypeScript`, `Java`, `Python`, `HTML`, `CSS`
 *   **Frontend:** `React.js`, `Redux Toolkit`, `Tailwind CSS`, `Zustand`, `Framer Motion`
@@ -64,16 +23,6 @@ Research: System Design & Scalable SaaS Architecture
 Target:   Ship production SaaS product during university
 ```
 <!--SYSTEM_STATE:END-->
-
----
-
-### 💡 STAGED PROTOCOLS (IDEAS & BACKLOG)
-
-<!--STAGED_IDEAS:START-->
-*   Scale Nexus with deals flow, investor matching, and startup analytics
-*   Build and launch a production SaaS product — target national then international scale
-*   Deepen expertise in system design and distributed systems
-<!--STAGED_IDEAS:END-->
 
 ---
 
